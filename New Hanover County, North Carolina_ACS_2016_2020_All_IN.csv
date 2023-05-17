@@ -1,0 +1,360 @@
+State/County FIPS,State FIPS,County FIPS,County Name,State Name,Total,Margin of Error (+/-)
+'01073','01','073',"Jefferson County",Alabama,7,13
+'02185','02','185',"North Slope Borough",Alaska,0,31
+'04005','04','005',"Coconino County",Arizona,19,31
+'04013','04','013',"Maricopa County",Arizona,46,71
+'05045','05','045',"Faulkner County",Arkansas,12,21
+'06013','06','013',"Contra Costa County",California,0,31
+'06037','06','037',"Los Angeles County",California,113,92
+'06059','06','059',"Orange County",California,6,13
+'06071','06','071',"San Bernardino County",California,0,31
+'06073','06','073',"San Diego County",California,117,129
+'06075','06','075',"San Francisco County",California,11,17
+'06081','06','081',"San Mateo County",California,32,51
+'06083','06','083',"Santa Barbara County",California,0,31
+'06085','06','085',"Santa Clara County",California,0,31
+'06089','06','089',"Shasta County",California,45,66
+'06097','06','097',"Sonoma County",California,0,31
+'06111','06','111',"Ventura County",California,0,31
+'06113','06','113',"Yolo County",California,0,31
+'08001','08','001',"Adams County",Colorado,0,31
+'08005','08','005',"Arapahoe County",Colorado,26,43
+'08013','08','013',"Boulder County",Colorado,13,20
+'08031','08','031',"Denver County",Colorado,0,31
+'08041','08','041',"El Paso County",Colorado,0,31
+'08051','08','051',"Gunnison County",Colorado,0,31
+'08059','08','059',"Jefferson County",Colorado,15,26
+'08067','08','067',"La Plata County",Colorado,0,31
+'08085','08','085',"Montrose County",Colorado,0,31
+'08101','08','101',"Pueblo County",Colorado,0,31
+'08105','08','105',"Rio Grande County",Colorado,26,36
+'09001','09','001',"Fairfield County",Connecticut,379,305
+'09003','09','003',"Hartford County",Connecticut,11,16
+'09009','09','009',"New Haven County",Connecticut,30,29
+'10003','10','003',"New Castle County",Delaware,41,67
+'10005','10','005',"Sussex County",Delaware,0,31
+'11001','11','001',"District of Columbia","District of Columbia",52,49
+'12011','12','011',"Broward County",Florida,0,31
+'12015','12','015',"Charlotte County",Florida,0,31
+'12021','12','021',"Collier County",Florida,24,37
+'12031','12','031',"Duval County",Florida,47,56
+'12047','12','047',"Hamilton County",Florida,6,12
+'12057','12','057',"Hillsborough County",Florida,30,39
+'12069','12','069',"Lake County",Florida,0,31
+'12071','12','071',"Lee County",Florida,59,103
+'12095','12','095',"Orange County",Florida,44,66
+'12097','12','097',"Osceola County",Florida,81,133
+'12099','12','099',"Palm Beach County",Florida,0,31
+'12103','12','103',"Pinellas County",Florida,0,31
+'12105','12','105',"Polk County",Florida,38,64
+'12111','12','111',"St. Lucie County",Florida,0,31
+'12127','12','127',"Volusia County",Florida,38,48
+'12129','12','129',"Wakulla County",Florida,31,70
+'13021','13','021',"Bibb County",Georgia,9,20
+'13057','13','057',"Cherokee County",Georgia,49,59
+'13059','13','059',"Clarke County",Georgia,10,17
+'13067','13','067',"Cobb County",Georgia,24,41
+'13073','13','073',"Columbia County",Georgia,23,37
+'13089','13','089',"DeKalb County",Georgia,0,31
+'13113','13','113',"Fayette County",Georgia,17,27
+'13117','13','117',"Forsyth County",Georgia,9,15
+'13135','13','135',"Gwinnett County",Georgia,34,34
+'13255','13','255',"Spalding County",Georgia,47,58
+'13297','13','297',"Walton County",Georgia,87,135
+'15001','15','001',"Hawaii County",Hawaii,0,31
+'15003','15','003',"Honolulu County",Hawaii,6,10
+'17007','17','007',"Boone County",Illinois,23,36
+'17031','17','031',"Cook County",Illinois,43,49
+'17055','17','055',"Franklin County",Illinois,0,31
+'17097','17','097',"Lake County",Illinois,0,31
+'18057','18','057',"Hamilton County",Indiana,30,49
+'18059','18','059',"Hancock County",Indiana,28,44
+'18095','18','095',"Madison County",Indiana,0,31
+'18141','18','141',"St. Joseph County",Indiana,26,38
+'19043','19','043',"Clayton County",Iowa,0,31
+'19087','19','087',"Henry County",Iowa,73,118
+'20037','20','037',"Crawford County",Kansas,31,50
+'20091','20','091',"Johnson County",Kansas,0,31
+'20161','20','161',"Riley County",Kansas,181,255
+'20183','20','183',"Smith County",Kansas,0,31
+'20201','20','201',"Washington County",Kansas,0,31
+'21021','21','021',"Boyle County",Kentucky,0,31
+'21025','21','025',"Breathitt County",Kentucky,4,8
+'21063','21','063',"Elliott County",Kentucky,0,31
+'21067','21','067',"Fayette County",Kentucky,0,31
+'21117','21','117',"Kenton County",Kentucky,0,31
+'21195','21','195',"Pike County",Kentucky,0,31
+'22071','22','071',"Orleans Parish",Louisiana,0,31
+'24003','24','003',"Anne Arundel County",Maryland,0,31
+'24005','24','005',"Baltimore County",Maryland,186,193
+'24013','24','013',"Carroll County",Maryland,34,40
+'24017','24','017',"Charles County",Maryland,32,48
+'24021','24','021',"Frederick County",Maryland,0,31
+'24027','24','027',"Howard County",Maryland,34,36
+'24031','24','031',"Montgomery County",Maryland,22,28
+'24033','24','033',"Prince George's County",Maryland,5,8
+'24047','24','047',"Worcester County",Maryland,0,31
+'25001','25','001',"Barnstable County",Massachusetts,11,18
+'25003','25','003',"Berkshire County",Massachusetts,59,94
+'25009','25','009',"Essex County",Massachusetts,66,78
+'25015','25','015',"Hampshire County",Massachusetts,0,31
+'25017','25','017',"Middlesex County",Massachusetts,27,42
+'25021','25','021',"Norfolk County",Massachusetts,12,17
+'25023','25','023',"Plymouth County",Massachusetts,15,25
+'25025','25','025',"Suffolk County",Massachusetts,0,31
+'25027','25','027',"Worcester County",Massachusetts,25,44
+'26023','26','023',"Branch County",Michigan,31,46
+'26057','26','057',"Gratiot County",Michigan,3,5
+'26111','26','111',"Midland County",Michigan,7,14
+'26123','26','123',"Newaygo County",Michigan,0,31
+'26125','26','125',"Oakland County",Michigan,17,27
+'26129','26','129',"Ogemaw County",Michigan,31,36
+'26149','26','149',"St. Joseph County",Michigan,32,38
+'26163','26','163',"Wayne County",Michigan,7,14
+'27037','27','037',"Dakota County",Minnesota,6,9
+'27123','27','123',"Ramsey County",Minnesota,0,31
+'27139','27','139',"Scott County",Minnesota,9,17
+'27169','27','169',"Winona County",Minnesota,0,31
+'28123','28','123',"Scott County",Mississippi,0,31
+'29097','29','097',"Jasper County",Missouri,65,133
+'29161','29','161',"Phelps County",Missouri,18,30
+'29169','29','169',"Pulaski County",Missouri,0,31
+'29189','29','189',"St. Louis County",Missouri,0,31
+'29510','29','510',"St. Louis City",Missouri,29,46
+'31053','31','053',"Dodge County",Nebraska,0,31
+'33011','33','011',"Hillsborough County","New Hampshire",805,1083
+'34001','34','001',"Atlantic County","New Jersey",14,24
+'34005','34','005',"Burlington County","New Jersey",54,43
+'34009','34','009',"Cape May County","New Jersey",0,31
+'34013','34','013',"Essex County","New Jersey",42,42
+'34015','34','015',"Gloucester County","New Jersey",9,18
+'34017','34','017',"Hudson County","New Jersey",142,162
+'34019','34','019',"Hunterdon County","New Jersey",4,9
+'34021','34','021',"Mercer County","New Jersey",8,14
+'34023','34','023',"Middlesex County","New Jersey",21,31
+'34025','34','025',"Monmouth County","New Jersey",146,132
+'34027','34','027',"Morris County","New Jersey",21,34
+'34029','34','029',"Ocean County","New Jersey",29,49
+'34031','34','031',"Passaic County","New Jersey",49,52
+'34035','34','035',"Somerset County","New Jersey",19,31
+'34037','34','037',"Sussex County","New Jersey",167,182
+'34041','34','041',"Warren County","New Jersey",0,31
+'35006','35','006',"Cibola County","New Mexico",0,31
+'35009','35','009',"Curry County","New Mexico",0,31
+'36027','36','027',"Dutchess County","New York",10,16
+'36029','36','029',"Erie County","New York",0,31
+'36047','36','047',"Kings County","New York",27,41
+'36055','36','055',"Monroe County","New York",8,13
+'36059','36','059',"Nassau County","New York",120,134
+'36061','36','061',"New York County","New York",6,14
+'36067','36','067',"Onondaga County","New York",0,31
+'36071','36','071',"Orange County","New York",15,28
+'36075','36','075',"Oswego County","New York",5,9
+'36077','36','077',"Otsego County","New York",0,31
+'36083','36','083',"Rensselaer County","New York",0,31
+'36093','36','093',"Schenectady County","New York",66,85
+'36095','36','095',"Schoharie County","New York",4,8
+'36101','36','101',"Steuben County","New York",50,69
+'36103','36','103',"Suffolk County","New York",87,73
+'36111','36','111',"Ulster County","New York",14,18
+'36113','36','113',"Warren County","New York",17,37
+'36119','36','119',"Westchester County","New York",76,98
+'37001','37','001',"Alamance County","North Carolina",18,21
+'37003','37','003',"Alexander County","North Carolina",0,31
+'37007','37','007',"Anson County","North Carolina",6,12
+'37011','37','011',"Avery County","North Carolina",0,31
+'37013','37','013',"Beaufort County","North Carolina",48,44
+'37015','37','015',"Bertie County","North Carolina",19,28
+'37017','37','017',"Bladen County","North Carolina",19,21
+'37019','37','019',"Brunswick County","North Carolina",1250,501
+'37021','37','021',"Buncombe County","North Carolina",184,166
+'37023','37','023',"Burke County","North Carolina",0,31
+'37025','37','025',"Cabarrus County","North Carolina",193,137
+'37027','37','027',"Caldwell County","North Carolina",24,40
+'37029','37','029',"Camden County","North Carolina",0,31
+'37031','37','031',"Carteret County","North Carolina",243,148
+'37035','37','035',"Catawba County","North Carolina",133,137
+'37037','37','037',"Chatham County","North Carolina",296,349
+'37039','37','039',"Cherokee County","North Carolina",0,31
+'37045','37','045',"Cleveland County","North Carolina",7,11
+'37047','37','047',"Columbus County","North Carolina",62,42
+'37049','37','049',"Craven County","North Carolina",297,287
+'37051','37','051',"Cumberland County","North Carolina",476,199
+'37053','37','053',"Currituck County","North Carolina",27,28
+'37055','37','055',"Dare County","North Carolina",0,31
+'37057','37','057',"Davidson County","North Carolina",50,45
+'37059','37','059',"Davie County","North Carolina",5,11
+'37061','37','061',"Duplin County","North Carolina",92,47
+'37063','37','063',"Durham County","North Carolina",237,118
+'37065','37','065',"Edgecombe County","North Carolina",28,28
+'37067','37','067',"Forsyth County","North Carolina",197,80
+'37069','37','069',"Franklin County","North Carolina",104,118
+'37071','37','071',"Gaston County","North Carolina",64,56
+'37073','37','073',"Gates County","North Carolina",0,31
+'37075','37','075',"Graham County","North Carolina",0,31
+'37077','37','077',"Granville County","North Carolina",11,21
+'37079','37','079',"Greene County","North Carolina",25,28
+'37081','37','081',"Guilford County","North Carolina",654,223
+'37083','37','083',"Halifax County","North Carolina",3,6
+'37085','37','085',"Harnett County","North Carolina",309,305
+'37089','37','089',"Henderson County","North Carolina",84,106
+'37091','37','091',"Hertford County","North Carolina",0,31
+'37093','37','093',"Hoke County","North Carolina",25,42
+'37097','37','097',"Iredell County","North Carolina",99,62
+'37101','37','101',"Johnston County","North Carolina",124,82
+'37103','37','103',"Jones County","North Carolina",0,31
+'37105','37','105',"Lee County","North Carolina",31,25
+'37107','37','107',"Lenoir County","North Carolina",48,45
+'37109','37','109',"Lincoln County","North Carolina",28,37
+'37117','37','117',"Martin County","North Carolina",21,31
+'37119','37','119',"Mecklenburg County","North Carolina",1090,366
+'37123','37','123',"Montgomery County","North Carolina",11,16
+'37125','37','125',"Moore County","North Carolina",129,116
+'37127','37','127',"Nash County","North Carolina",325,162
+'37131','37','131',"Northampton County","North Carolina",0,31
+'37133','37','133',"Onslow County","North Carolina",856,451
+'37135','37','135',"Orange County","North Carolina",123,83
+'37137','37','137',"Pamlico County","North Carolina",29,44
+'37139','37','139',"Pasquotank County","North Carolina",10,15
+'37141','37','141',"Pender County","North Carolina",935,441
+'37145','37','145',"Person County","North Carolina",38,59
+'37147','37','147',"Pitt County","North Carolina",180,168
+'37151','37','151',"Randolph County","North Carolina",64,53
+'37153','37','153',"Richmond County","North Carolina",14,21
+'37155','37','155',"Robeson County","North Carolina",10,17
+'37157','37','157',"Rockingham County","North Carolina",33,43
+'37159','37','159',"Rowan County","North Carolina",77,45
+'37161','37','161',"Rutherford County","North Carolina",40,56
+'37163','37','163',"Sampson County","North Carolina",79,65
+'37167','37','167',"Stanly County","North Carolina",21,22
+'37171','37','171',"Surry County","North Carolina",7,11
+'37177','37','177',"Tyrrell County","North Carolina",0,31
+'37179','37','179',"Union County","North Carolina",338,167
+'37181','37','181',"Vance County","North Carolina",32,52
+'37183','37','183',"Wake County","North Carolina",1280,378
+'37187','37','187',"Washington County","North Carolina",0,31
+'37189','37','189',"Watauga County","North Carolina",72,80
+'37191','37','191',"Wayne County","North Carolina",48,38
+'37193','37','193',"Wilkes County","North Carolina",16,19
+'37195','37','195',"Wilson County","North Carolina",0,31
+'37197','37','197',"Yadkin County","North Carolina",50,89
+'37199','37','199',"Yancey County","North Carolina",20,25
+'39017','39','017',"Butler County",Ohio,0,31
+'39035','39','035',"Cuyahoga County",Ohio,0,31
+'39041','39','041',"Delaware County",Ohio,28,44
+'39049','39','049',"Franklin County",Ohio,138,154
+'39061','39','061',"Hamilton County",Ohio,58,92
+'39083','39','083',"Knox County",Ohio,0,31
+'39085','39','085',"Lake County",Ohio,4,10
+'39091','39','091',"Logan County",Ohio,0,31
+'39101','39','101',"Marion County",Ohio,0,31
+'39133','39','133',"Portage County",Ohio,22,36
+'39159','39','159',"Union County",Ohio,5,11
+'39165','39','165',"Warren County",Ohio,6,10
+'40097','40','097',"Mayes County",Oklahoma,23,34
+'40109','40','109',"Oklahoma County",Oklahoma,0,31
+'40143','40','143',"Tulsa County",Oklahoma,12,18
+'41017','41','017',"Deschutes County",Oregon,44,61
+'41051','41','051',"Multnomah County",Oregon,11,19
+'41067','41','067',"Washington County",Oregon,38,53
+'42001','42','001',"Adams County",Pennsylvania,0,31
+'42003','42','003',"Allegheny County",Pennsylvania,9,11
+'42011','42','011',"Berks County",Pennsylvania,40,61
+'42019','42','019',"Butler County",Pennsylvania,129,204
+'42029','42','029',"Chester County",Pennsylvania,209,248
+'42045','42','045',"Delaware County",Pennsylvania,0,31
+'42055','42','055',"Franklin County",Pennsylvania,22,37
+'42061','42','061',"Huntingdon County",Pennsylvania,64,76
+'42069','42','069',"Lackawanna County",Pennsylvania,0,31
+'42071','42','071',"Lancaster County",Pennsylvania,196,265
+'42075','42','075',"Lebanon County",Pennsylvania,0,31
+'42077','42','077',"Lehigh County",Pennsylvania,36,58
+'42079','42','079',"Luzerne County",Pennsylvania,0,31
+'42081','42','081',"Lycoming County",Pennsylvania,0,31
+'42091','42','091',"Montgomery County",Pennsylvania,6,9
+'42095','42','095',"Northampton County",Pennsylvania,13,27
+'42101','42','101',"Philadelphia County",Pennsylvania,0,31
+'42105','42','105',"Potter County",Pennsylvania,12,25
+'42129','42','129',"Westmoreland County",Pennsylvania,47,80
+'42133','42','133',"York County",Pennsylvania,0,31
+'44005','44','005',"Newport County","Rhode Island",0,31
+'45001','45','001',"Abbeville County","South Carolina",0,31
+'45003','45','003',"Aiken County","South Carolina",55,69
+'45013','45','013',"Beaufort County","South Carolina",0,31
+'45015','45','015',"Berkeley County","South Carolina",54,43
+'45019','45','019',"Charleston County","South Carolina",135,101
+'45031','45','031',"Darlington County","South Carolina",0,31
+'45035','45','035',"Dorchester County","South Carolina",29,51
+'45041','45','041',"Florence County","South Carolina",0,31
+'45043','45','043',"Georgetown County","South Carolina",4,8
+'45045','45','045',"Greenville County","South Carolina",13,27
+'45051','45','051',"Horry County","South Carolina",56,48
+'45059','45','059',"Laurens County","South Carolina",2,4
+'45061','45','061',"Lee County","South Carolina",1,2
+'45063','45','063',"Lexington County","South Carolina",18,39
+'45075','45','075',"Orangeburg County","South Carolina",5,8
+'45079','45','079',"Richland County","South Carolina",10,16
+'45083','45','083',"Spartanburg County","South Carolina",29,44
+'45091','45','091',"York County","South Carolina",48,62
+'47009','47','009',"Blount County",Tennessee,15,28
+'47037','47','037',"Davidson County",Tennessee,0,31
+'47065','47','065',"Hamilton County",Tennessee,72,114
+'47073','47','073',"Hawkins County",Tennessee,47,77
+'47091','47','091',"Johnson County",Tennessee,14,29
+'47143','47','143',"Rhea County",Tennessee,21,35
+'47147','47','147',"Robertson County",Tennessee,20,37
+'47149','47','149',"Rutherford County",Tennessee,0,31
+'47157','47','157',"Shelby County",Tennessee,16,32
+'47163','47','163',"Sullivan County",Tennessee,62,82
+'47179','47','179',"Washington County",Tennessee,0,31
+'48027','48','027',"Bell County",Texas,90,148
+'48029','48','029',"Bexar County",Texas,9,14
+'48041','48','041',"Brazos County",Texas,94,96
+'48201','48','201',"Harris County",Texas,32,40
+'48453','48','453',"Travis County",Texas,36,56
+'49035','49','035',"Salt Lake County",Utah,18,29
+'49043','49','043',"Summit County",Utah,0,31
+'49049','49','049',"Utah County",Utah,0,31
+'50007','50','007',"Chittenden County",Vermont,71,85
+'50021','50','021',"Rutland County",Vermont,0,31
+'51003','51','003',"Albemarle County",Virginia,0,31
+'51059','51','059',"Fairfax County",Virginia,178,125
+'51065','51','065',"Fluvanna County",Virginia,37,59
+'51069','51','069',"Frederick County",Virginia,18,29
+'51079','51','079',"Greene County",Virginia,1,2
+'51083','51','083',"Halifax County",Virginia,0,31
+'51087','51','087',"Henrico County",Virginia,0,31
+'51095','51','095',"James City County",Virginia,71,63
+'51107','51','107',"Loudoun County",Virginia,73,91
+'51109','51','109',"Louisa County",Virginia,126,172
+'51121','51','121',"Montgomery County",Virginia,18,24
+'51147','51','147',"Prince Edward County",Virginia,0,31
+'51153','51','153',"Prince William County",Virginia,39,37
+'51161','51','161',"Roanoke County",Virginia,0,31
+'51175','51','175',"Southampton County",Virginia,12,18
+'51177','51','177',"Spotsylvania County",Virginia,15,20
+'51179','51','179',"Stafford County",Virginia,29,47
+'51199','51','199',"York County",Virginia,11,19
+'51510','51','510',"Alexandria City",Virginia,11,18
+'51550','51','550',"Chesapeake City",Virginia,0,31
+'51660','51','660',"Harrisonburg City",Virginia,0,31
+'51680','51','680',"Lynchburg City",Virginia,5,9
+'51683','51','683',"Manassas City",Virginia,19,32
+'51740','51','740',"Portsmouth City",Virginia,0,31
+'51760','51','760',"Richmond City",Virginia,27,42
+'51800','51','800',"Suffolk City",Virginia,0,31
+'51810','51','810',"Virginia Beach City",Virginia,13,19
+'51830','51','830',"Williamsburg City",Virginia,5,8
+'53033','53','033',"King County",Washington,0,31
+'53053','53','053',"Pierce County",Washington,0,31
+'54011','54','011',"Cabell County","West Virginia",0,31
+'54019','54','019',"Fayette County","West Virginia",39,60
+'54039','54','039',"Kanawha County","West Virginia",20,31
+'54055','54','055',"Mercer County","West Virginia",0,31
+'54061','54','061',"Monongalia County","West Virginia",0,31
+'55009','55','009',"Brown County",Wisconsin,0,31
+'55039','55','039',"Fond du Lac County",Wisconsin,0,31
+'55059','55','059',"Kenosha County",Wisconsin,69,114
+'55079','55','079',"Milwaukee County",Wisconsin,0,31
+'55109','55','109',"St. Croix County",Wisconsin,29,46
+'56039','56','039',"Teton County",Wyoming,0,31
